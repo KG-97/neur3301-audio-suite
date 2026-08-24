@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEUR3301 Test 1 Audio Revision Suite</title>
+    <link>https://github.com/KG-97/neur3301-audio-suite</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/feed.xml" />
+    <language>en-au</language>
+    <description>Ten-track private audio revision suite for NEUR3301 Advanced Neuroscience 1, Test 1 (Lectures 1-7, Development and Differentiation). Narrated for exam revision.</description>
+    <itunes:author>NEUR3301 Audio Revision Suite</itunes:author>
+    <itunes:summary>Ten-track private audio revision suite for NEUR3301 Test 1.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education" />
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/cover.jpg" />
+    <image>
+      <url>https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/cover.jpg</url>
+      <title>NEUR3301 Test 1 Audio Revision Suite</title>
+      <link>https://github.com/KG-97/neur3301-audio-suite</link>
+    </image>
+    <lastBuildDate>Mon, 24 Aug 2026 01:28:40 +0000</lastBuildDate>
+    <item>
+      <title>Track A — Lecture 1 — Glia I</title>
+      <description>NEUR3301 Test 1 audio revision — Lecture 1 — Glia I.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_A.mp3" length="14971469" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-a-17ZchVyYzu2CptlHbpvX-ng_3vJi2Ih2t</guid>
+      <pubDate>Fri, 14 Aug 2026 02:00:00 +0000</pubDate>
+      <itunes:title>Track A — Lecture 1 — Glia I</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track B — Lecture 2 — Growth and Trophic Factors</title>
+      <description>NEUR3301 Test 1 audio revision — Lecture 2 — Growth and Trophic Factors.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_B.mp3" length="10149075" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-b-119O2ZXhVwh1Zk3Cv0rtSAJW5AzRXZdFR</guid>
+      <pubDate>Fri, 14 Aug 2026 03:00:00 +0000</pubDate>
+      <itunes:title>Track B — Lecture 2 — Growth and Trophic Factors</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track C — Lecture 3 — Axon Outgrowth, Targets and Maps</title>
+      <description>NEUR3301 Test 1 audio revision — Lecture 3 — Axon Outgrowth, Targets and Maps.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_C.mp3" length="15318400" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-c-1vuHPSIZp8tbEWk_cCdqH85K5J-biWT3e</guid>
+      <pubDate>Fri, 14 Aug 2026 04:00:00 +0000</pubDate>
+      <itunes:title>Track C — Lecture 3 — Axon Outgrowth, Targets and Maps</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track D — Lecture 4 — Regressive Events and Cell Death</title>
+      <description>NEUR3301 Test 1 audio revision — Lecture 4 — Regressive Events and Cell Death.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_D.mp3" length="36864615" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-d-1r3oNwHDzNvagjVLnhLb5o-7aeaN9p6tq</guid>
+      <pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
+      <itunes:title>Track D — Lecture 4 — Regressive Events and Cell Death</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:38:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track E — Lecture 5 — Cell Lineage</title>
+      <description>NEUR3301 Test 1 audio revision — Lecture 5 — Cell Lineage.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_E.mp3" length="11286328" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-e-1mdMH-bkBgkRLOp0X0i2GnIEeBNd40wXV</guid>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0000</pubDate>
+      <itunes:title>Track E — Lecture 5 — Cell Lineage</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track F — Lecture 6 — Adult Neurogenesis and Stem Cells</title>
+      <description>NEUR3301 Test 1 audio revision — Lecture 6 — Adult Neurogenesis and Stem Cells.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_F.mp3" length="9505844" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-f-1R7drV0oYwrq7gMHeVIUfMUKpBE5eEc-M</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 +0000</pubDate>
+      <itunes:title>Track F — Lecture 6 — Adult Neurogenesis and Stem Cells</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track G — Lecture 7 — Glia II</title>
+      <description>NEUR3301 Test 1 audio revision — Lecture 7 — Glia II.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_G.mp3" length="17253110" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-g-1LVMLyreIscWIY1xXAMe2S1s1K5M87clE</guid>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+      <itunes:title>Track G — Lecture 7 — Glia II</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:17:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track H — Cross-lecture Wiring</title>
+      <description>NEUR3301 Test 1 audio revision — Cross-lecture Wiring.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_H.mp3" length="8112344" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-h-1FJYj2k_JFQ_7tPv5U3gFHfuSDshjqA3G</guid>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
+      <itunes:title>Track H — Cross-lecture Wiring</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track I — Full Test 1 Cram</title>
+      <description>NEUR3301 Test 1 audio revision — Full Test 1 Cram.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_I.mp3" length="12303217" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-i-1eWp_bytCr1G42u7H06GAv09GZS3TrDMG</guid>
+      <pubDate>Fri, 14 Aug 2026 10:00:00 +0000</pubDate>
+      <itunes:title>Track I — Full Test 1 Cram</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Track J — Exam Morning</title>
+      <description>NEUR3301 Test 1 audio revision — Exam Morning.</description>
+      <enclosure url="https://raw.githubusercontent.com/KG-97/neur3301-audio-suite/main/NEUR3301_Track_J.mp3" length="3304971" type="audio/mpeg" />
+      <guid isPermaLink="false">neur3301-track-j-19OKbpQiEN4kgnPSnnnKIMVIcQ9SuvdCK</guid>
+      <pubDate>Fri, 14 Aug 2026 11:00:00 +0000</pubDate>
+      <itunes:title>Track J — Exam Morning</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NEUR3301 Test 1 Audio Revision Suite</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; background:#0b0b0f; color:#eee; }
+  h1 { font-size: 1.4rem; }
+  p.sub { color:#999; margin-top:-8px; }
+  .track { background:#16161d; border-radius:10px; padding:14px 16px; margin-bottom:10px; }
+  .track h3 { margin:0 0 6px 0; font-size:1rem; }
+  audio { width:100%; margin-top:6px; }
+  a.feed-link { display:inline-block; margin:18px 0; padding:10px 16px; background:#4f7cff; color:white; border-radius:8px; text-decoration:none; font-weight:600; }
+</style>
+</head>
+<body>
+<h1>NEUR3301 Test 1 — Audio Revision Suite</h1>
+<p class="sub">Ten tracks, ~2h56m total. Subscribe with the feed link below or play directly here.</p>
+<a class="feed-link" href="feed.xml">Podcast RSS feed URL</a>
+<div id="tracks"></div>
+<script>
+const tracks = [
+  ["A","Lecture 1 — Glia I","NEUR3301_Track_A.mp3"],
+  ["B","Lecture 2 — Growth and Trophic Factors","NEUR3301_Track_B.mp3"],
+  ["C","Lecture 3 — Axon Outgrowth, Targets and Maps","NEUR3301_Track_C.mp3"],
+  ["D","Lecture 4 — Regressive Events and Cell Death","NEUR3301_Track_D.mp3"],
+  ["E","Lecture 5 — Cell Lineage","NEUR3301_Track_E.mp3"],
+  ["F","Lecture 6 — Adult Neurogenesis and Stem Cells","NEUR3301_Track_F.mp3"],
+  ["G","Lecture 7 — Glia II","NEUR3301_Track_G.mp3"],
+  ["H","Cross-lecture Wiring","NEUR3301_Track_H.mp3"],
+  ["I","Full Test 1 Cram","NEUR3301_Track_I.mp3"],
+  ["J","Exam Morning","NEUR3301_Track_J.mp3"],
+];
+const el = document.getElementById("tracks");
+tracks.forEach(([letter, title, file]) => {
+  const div = document.createElement("div");
+  div.className = "track";
+  div.innerHTML = `<h3>Track ${letter} — ${title}</h3><audio controls preload="none" src="${file}"></audio>`;
+  el.appendChild(div);
+});
+</script>
+</body>
+</html>
